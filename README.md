@@ -26,7 +26,7 @@ Este projeto implementa um CRUD completo de tarefas, utilizando ASP.NET Core 8 e
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seuusuario/todo-api-aspnetcore.git
+git clone https://github.com/ajoao42/todo-api-aspnetcore.git
 cd todo-api-aspnetcore
 
 # Restaurar dependências
